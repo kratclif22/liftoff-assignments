@@ -21,5 +21,5 @@ https://trello.com/b/FiSHCv0F/lc-capstone
 ### Project Repo Link
 
 Include a link to your project on GitHub.
-https://github.com/kratclif22/electionapp
+https://github.com/kratclif22/election-app
 
